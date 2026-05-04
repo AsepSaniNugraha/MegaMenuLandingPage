@@ -1,0 +1,22 @@
+[
+    {
+        "title": "About Us",
+        "links": [
+          {"label":"Become Partner"},
+          {"label":"Expert Directory"},
+          {"label":"Careers"},
+          {"label":"Contact Sales"},
+          {"label":"All Info Page"}]
+    },
+    {
+        "title": "Compare Us",
+        "links": [
+          {"label":"Amplitude"},
+          {"label":"Heap"},
+          {"label":"Pendo"},
+          {"label":"Google Analytics"},
+          {"label":"PostHog"},
+          {"label":"Fullstory"},
+          {"label":"Adobe Analytics"}]
+    }
+]

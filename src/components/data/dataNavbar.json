@@ -1,0 +1,85 @@
+[
+  {
+    "mainLink": "Platform",
+    "sections": [
+      {
+        "title": "Product",
+        "links": [
+          {"label":"Product Analytics"},
+          {"label":"Web Analytics"},
+          {"label":"Mobile Analytics"},
+          {"label":"Experiments & Feature Flags"},
+          {"label":"Metric Trees"},
+          {"label":"Warehouse Connectors"},
+          {"label":"Session Replay"},
+          {"label":"Integrations"},
+          {"label":"Security & Privacy"}]
+      },
+      {
+        "title": "Use Cases",
+        "links": [
+          {"label":"Acquire New Users"},
+          {"label":"Engage Your Users"},
+          {"label":"Grow Your Usership"},
+          {"label":"Empower Your Team"}]
+      }
+    ]
+  },
+  {
+    "mainLink": "Solutions",
+    "sections": [
+      {
+        "title": "Teams",
+        "links": [
+            {"label":"Product"},
+            {"label":"Data"},
+            {"label":"Marketing"},
+            {"label":"Engineering"}]
+      },
+      {
+        "title": "Industries",
+        "links": [
+          {"label":"Finance"},
+          {"label":"Media & Entertainment"},
+          {"label":"B2B"},
+          {"label":"ECommerce"},
+          {"label":"Healthcare"},
+          {"label":"AI"}]
+      },
+      {
+        "title": "Business Size",
+        "links": [
+            {"label":"Enterprise"},
+            {"label":"Small & Medium"},
+            {"label":"Startup Program"}]
+      }
+    ]
+  },
+  {
+    "mainLink": "Resources",
+    "sections": [
+      {
+        "title": "Using Data Panel",
+        "links": [
+            {"label":"Docs & Guides"},
+            {"label":"Contact Support"},
+            {"label":"What's New"},
+            {"label":"Template Gallery"}]
+      },
+      {
+        "title": "Community",
+        "links": [
+          {"label":"Blog"},
+          {"label":"Events & Webinars"},
+          {"label":"Community"},
+          {"label":"Customer Stories"}]
+      },
+      {
+        "title": "Partnership",
+        "links": [
+            {"label":"Become a Partner"},
+            {"label":"Hire an Expert"}]
+      }
+    ]
+  }
+]
